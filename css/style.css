@@ -11,7 +11,7 @@ header{
     color: white;
     margin-top: -22px;
     margin-left: -8px;
-    margin-right: -10px;
+    margin-right: -9px;
 }
 header > a{
     color: black;
@@ -30,12 +30,12 @@ nav{
  text-shadow: 7px 3px 10px gray;
  min-width: 300px;
 text-align: center;
-margin-left: -20px;
-margin-right: -20px;
+margin-left: -7px;
+margin-right: -7px;
 }
 
 nav > a{
-    padding: 20px;
+    padding: 10px;
     color: darkblue;
     text-decoration: none;
 
@@ -168,7 +168,7 @@ h4{
 }
 
 span > h4{
-    margin: -20px;
+ font-size: small;
 }
 
 .ambiente{
